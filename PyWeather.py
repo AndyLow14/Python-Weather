@@ -6,7 +6,7 @@ import tkinter as tk
 
 TUF = 1980
 LOCATION = "North Melbourne, AU"
-MINUTE_INTERVAL = 60
+MINUTE_INTERVAL = 10
 
 minute_to_ms = MINUTE_INTERVAL * 60000
 
